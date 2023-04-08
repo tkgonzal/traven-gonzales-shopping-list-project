@@ -34,6 +34,11 @@ header h1 {
   padding: 20px;
 }
 
+/* ADDED, TO SPECIFY IF A LIST ITEM IS BEING EDITED */
+.edit-mode {
+  color: #ccc;
+}
+
 /* Form & Input */
 .form-input {
   width: 100%;
